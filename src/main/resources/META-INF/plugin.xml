@@ -49,7 +49,6 @@
 
     <extensions defaultExtensionNs="IdeaVIM">
         <vimExtension implementation="io.github.hadixlin.iss.KeepEnglishInNormalExtension"/>
-        <vimExtension implementation="io.github.hadixlin.iss.KeepEnglishInNormalAndRestoreInInsertExtension"/>
     </extensions>
     <depends>IdeaVIM</depends>
 </idea-plugin>
